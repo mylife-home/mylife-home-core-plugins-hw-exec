@@ -1,6 +1,6 @@
 'use strict';
 
-console.log('load');
+console.log('load2');
 
 module.exports = {
 
